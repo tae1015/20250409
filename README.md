@@ -2,7 +2,8 @@
 2025 S/S 시즌을 맞이하여 심플하면서 감각적인 쇼핑 경험을 제공하는 것을 목표로 제작되었습니다.
 
 🔗 배포 주소
-👉 [https://tae1015.github.io/test/](https://tae1015.github.io/20250409/)
+👉[ https://tae1015.github.io/20250409/)](https://tae1015.github.io/20250409/)](https://tae1015.github.io/20250409/)
+👉[ https://tae1015.github.io/20250409/LAST2/index.html](https://tae1015.github.io/20250409/LAST2/index.html)
 
 📌 주요 기능
 홈 배너: 시즌별 프로모션 강조 (예: SPRING SALE)
@@ -22,3 +23,5 @@ HTML5, CSS3, JavaScript
 이메일: 3832650@naver.com
 
 📸 스크린샷
+![tae1015 github io_20250409_](https://github.com/user-attachments/assets/1cb2b714-5293-4ed1-9db3-828fcaf0fe73)
+![tae1015 github io_20250409_LAST2_index html](https://github.com/user-attachments/assets/30c247d8-8047-4f49-a3ec-b94ce360fc2f)
