@@ -2,7 +2,7 @@
 2025 S/S 시즌을 맞이하여 심플하면서 감각적인 쇼핑 경험을 제공하는 것을 목표로 제작되었습니다. (BR)
 
 🔗 배포 주소 (BR)
-👉[ https://tae1015.github.io/20250409/)](https://tae1015.github.io/20250409/)](https://tae1015.github.io/20250409/)
+👉[ https://tae1015.github.io/20250409/)](https://tae1015.github.io/20250409/)](https://tae1015.github.io/20250409/) (BR)
 👉[ https://tae1015.github.io/20250409/LAST2/index.html](https://tae1015.github.io/20250409/LAST2/index.html)
 
 📌 주요 기능 (BR)
